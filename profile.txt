@@ -1,0 +1,9 @@
+
+Google Bert
+
+bert + downstream task || tensorflow: https://github.com/google-research/bert 
+
+
+DOCUMENT IMAGE UNDERSTANDING
+
+text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/master/layoutlm
