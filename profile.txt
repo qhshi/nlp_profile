@@ -2,6 +2,7 @@
 Google Bert
 
 bert + downstream task || tensorflow: https://github.com/google-research/bert 
+bert + downstream task || pytorch:    https://github.com/codertimo/BERT-pytorch
 
 
 DOCUMENT IMAGE UNDERSTANDING
