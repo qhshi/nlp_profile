@@ -8,6 +8,9 @@ text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/mas
 
 ==================================================================================================
 
+GNN综述
+https://zhuanlan.zhihu.com/p/76001080
+
 bert代码解读
 https://blog.csdn.net/cpluss/article/details/88418176
 https://www.jiqizhixin.com/articles/2018-11-01-9
