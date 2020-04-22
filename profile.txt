@@ -10,6 +10,9 @@ text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/mas
 
 bert代码解读
 https://blog.csdn.net/cpluss/article/details/88418176
+https://www.jiqizhixin.com/articles/2018-11-01-9
+https://zhuanlan.zhihu.com/p/54885596
+http://fancyerii.github.io/2019/03/09/bert-codes/
 
 self-attention理解
 https://blog.csdn.net/cpluss/article/details/85330256
@@ -20,5 +23,11 @@ https://blog.csdn.net/cpluss/article/details/81709998
 wide&deep讲解: 记忆能力(LR/FTRL)+泛化能力(DNN/AdaGrad)+logisticloss
 https://www.jianshu.com/p/71cf3d1f579d
 https://zhuanlan.zhihu.com/p/53361519
+
+EM算法解读
+https://blog.csdn.net/cpluss/article/details/88817337
+
+CRF解读
+https://blog.csdn.net/cpluss/article/details/88824303 ; https://blog.csdn.net/cpluss/article/details/88825748
 
 ==================================================================================================
