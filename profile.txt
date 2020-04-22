@@ -14,10 +14,10 @@ https://blog.csdn.net/cpluss/article/details/88418176
 self-attention理解
 https://blog.csdn.net/cpluss/article/details/85330256
 
-CNN参数值推导
+CNN参数值推导(in-channel(R/G/B可看作独立特征,类似文本的text-emb/token-type-emb/pos-emb,后续sum)、out-channel(kernels))
 https://blog.csdn.net/cpluss/article/details/81709998
 
-wide&deep讲解
+wide&deep讲解: 记忆能力(LR/FTRL)+泛化能力(DNN/AdaGrad)+logisticloss
 https://zhuanlan.zhihu.com/p/53361519
 
 ==================================================================================================
