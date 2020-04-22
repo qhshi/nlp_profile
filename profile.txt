@@ -11,3 +11,13 @@ text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/mas
 bert代码解读
 https://blog.csdn.net/cpluss/article/details/88418176
 
+self-attention理解
+https://blog.csdn.net/cpluss/article/details/85330256
+
+CNN参数值推导
+https://blog.csdn.net/cpluss/article/details/81709998
+
+wide&deep讲解
+https://zhuanlan.zhihu.com/p/53361519
+
+==================================================================================================
