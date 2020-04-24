@@ -10,6 +10,7 @@ text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/mas
 
 GNN综述
 https://zhuanlan.zhihu.com/p/76001080
+https://www.bilibili.com/video/BV1j54y1975p?spm_id_from=333.788.b_636f6d6d656e74.6
 
 bert代码解读
 https://blog.csdn.net/cpluss/article/details/88418176
