@@ -6,7 +6,15 @@ bert + downstream task || pytorch:    https://github.com/codertimo/BERT-pytorch
 DOCUMENT IMAGE UNDERSTANDING
 text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/master/layoutlm
 
+attention-ocr
+https://github.com/da03/Attention-OCR
+
 ==================================================================================================
+
+CTC-单行图片文字识别
+https://www.cnblogs.com/liaohuiqiang/p/9953978.html
+https://zhuanlan.zhihu.com/p/43534801
+http://nooverfit.com/wp/ctc%E7%9A%84%E7%9B%B4%E8%A7%82%E7%90%86%E8%A7%A3%EF%BC%88connectionist-temporal-classification%E8%BF%9E%E6%8E%A5%E6%97%B6%E5%BA%8F%E5%88%86%E7%B1%BB%EF%BC%89%EF%BC%8C%E5%8D%95%E8%A1%8C%E6%96%87/
 
 GNN综述
 https://zhuanlan.zhihu.com/p/76001080
