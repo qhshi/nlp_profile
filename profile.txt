@@ -1,8 +1,8 @@
 
 Google Bert
 bert + downstream task || tensorflow: https://github.com/google-research/bert 
-bert + downstream task || pytorch:    https://github.com/codertimo/BERT-pytorch
-bert                   || pytorch:    https://github.com/huggingface/pytorch-pretrained-BERT
+bert                   || pytorch:    https://github.com/codertimo/BERT-pytorch
+bert pretrained models || pytorch:    https://github.com/huggingface/pytorch-pretrained-BERT
 
 DOCUMENT IMAGE UNDERSTANDING
 text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/master/layoutlm
