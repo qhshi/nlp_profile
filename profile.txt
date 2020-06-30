@@ -16,6 +16,9 @@ https://github.com/fastai/fastai
 称霸Kaggle的十大深度学习技巧
 https://blog.csdn.net/weixin_42137700/article/details/81529789
 
+keras版bert应用
+https://github.com/bojone/bert4keras/tree/master/examples
+
 ==================================================================================================
 
 CTC-单行图片文字识别
