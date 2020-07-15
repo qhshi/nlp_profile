@@ -1,23 +1,35 @@
 
-Google Bert
+【Google Bert】
 bert + downstream task || tensorflow: https://github.com/google-research/bert 
 bert                   || pytorch:    https://github.com/codertimo/BERT-pytorch
 bert pretrained models || pytorch:    https://github.com/huggingface/pytorch-pretrained-BERT
 
-DOCUMENT IMAGE UNDERSTANDING
+【DOCUMENT IMAGE UNDERSTANDING】
 text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/master/layoutlm
 
-attention-ocr
+【attention-ocr】
 https://github.com/da03/Attention-OCR
 
-Fast.ai库是一个新手友好型的深度学习工具箱，而且是目前复现最新算法的首要之选
+【Fast.ai库是一个新手友好型的深度学习工具箱，而且是目前复现最新算法的首要之选】
 https://github.com/fastai/fastai
 
-称霸Kaggle的十大深度学习技巧
+【称霸Kaggle的十大深度学习技巧】
 https://blog.csdn.net/weixin_42137700/article/details/81529789
 
-keras版bert应用
+【keras版bert应用】
 https://github.com/bojone/bert4keras/tree/master/examples
+
+【nlp模型评价体系ACL20 Best Paper】
+https://mp.weixin.qq.com/s/yGR3-tH2eAP__U58xZO9Rw
+论文作者视频解析：
+https://slideslive.com/38929272/beyond-accuracy-behavioral-testing-of-nlp-models-with-checklist
+Github:
+https://github.com/marcotcr/checklist
+论文链接:
+https://arxiv.org/abs/2005.04118
+
+【xxx】
+
 
 ==================================================================================================
 
