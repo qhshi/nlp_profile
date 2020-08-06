@@ -3,6 +3,7 @@
 bert + downstream task || tensorflow: https://github.com/google-research/bert 
 bert                   || pytorch:    https://github.com/codertimo/BERT-pytorch
 bert pretrained models || pytorch:    https://github.com/huggingface/pytorch-pretrained-BERT
+keras-bert             || keras:      https://github.com/CyberZHG/keras-bert
 
 【DOCUMENT IMAGE UNDERSTANDING】
 text + image_layout bert || pytorch: https://github.com/microsoft/unilm/tree/master/layoutlm
